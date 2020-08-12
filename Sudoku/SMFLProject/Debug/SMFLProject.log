@@ -1,0 +1,18 @@
+﻿  SudokuGame.cpp
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\includes.h(14,70): warning C4091: 'typedef ': ignored on left of 'Response' when no variable is declared
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(20,17): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(24,17): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(81,17): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(85,17): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(204,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(205,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(451,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(452,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(467,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(468,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(519,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael's pc\Desktop\Sudoku\SMFLProject\SudokuGame.cpp(520,21): warning C4018: '<': signed/unsigned mismatch
+  SMFLProject.vcxproj -> C:\Users\Michael's pc\Desktop\Sudoku\Debug\SMFLProject.exe
